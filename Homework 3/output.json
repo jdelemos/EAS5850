@@ -1,0 +1,17 @@
+{
+    "Patient ID": "01234567890",
+    "Patient Name": "TIGER^DANIELLE",
+    "Patient DOB": "19540405",
+    "Referring Doctor Name": "1234567890^DOE^JANE^^^^^^NPI",
+    "Patient Sex": "F",
+    "Reason For Study": "^Abd pain and weight loss, non-acute",
+    "Procedure Code": "MRAPENCZ^MR ABDOMEN/PELVIS W AND WO IV CONTRAST^URAD_O^^MRAPEZ",
+    "Diagnosis Description": [
+        "Abnormal weight loss",
+        "Unspecified abdominal pain"
+    ],
+    "Impression": [
+        "Indeterminate enhancing hepatic lesion, for which short-term follow-up MRI is recommended. Differential considerations include hepatic adenoma if the patient is on oral contraceptives, focal nodular hyperplasia, or atypical hemangioma.",
+        "No findings of inflammatory bowel disease."
+    ]
+}
