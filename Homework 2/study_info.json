@@ -1,0 +1,15 @@
+{
+  "Age": "077Y",
+  "Sex": "F",
+  "StudyDescription": "CT ABD PELVIS(WITH CHEST IMAGES) W IV CON",
+  "Modality": "CT",
+  "Manufacturer": "TOSHIBA",
+  "PatientID": "A034518",
+  "NumSeries": 6,
+  "StudyInstanceUID": "1.3.6.1.4.1.14519.5.2.1.99.1071.28052166218470275068707230421869",
+  "NumRows": 512,
+  "NumCols": 512,
+  "MinPixelVal": -2048.0,
+  "MaxPixelVal": 1550.0,
+  "MeanPixelVal": -825.6180686950684
+}
